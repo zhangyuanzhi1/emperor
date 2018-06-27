@@ -1,0 +1,10 @@
+/bootstrap.yml
+/application.yml
+build
+out
+target
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
